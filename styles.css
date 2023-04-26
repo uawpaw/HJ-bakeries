@@ -45,6 +45,10 @@ p{
         width: 60%;
         transform: rotate(0);
     }
+
+    body{
+        font-size: 2rem;
+    }
 }
 
 
